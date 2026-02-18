@@ -32,7 +32,6 @@ function App() {
       <header className="App-header">
         <h1>MARIDÃO DE ALUGUEL</h1>
         <p className="subtitle">Prestador de serviço local</p>
-        
         <div className="cards-container">
           <div className="card">
             <h2>Solicitar Serviço</h2>
